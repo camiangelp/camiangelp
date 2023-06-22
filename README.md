@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @camiangelp
 - 🌱 I’m currently learning JAVA, JavaScript,CSS, HTML
-- 📫 How to reach me: 
--                     - 📧 camiangelp@gmail.com
--                     - 👩🏽 https://www.linkedin.com/in/camiangelp 
+- 📫 How to reach me:  📧 camiangelp@gmail.com  👩🏽 https://www.linkedin.com/in/camiangelp 
 
 <!---
 camiangelp/camiangelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

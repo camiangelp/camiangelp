@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @camiangelp
-- 🌱 I’m currently learning JAVA, JavaScript,CSS, HTML
+- 🌱 I’m currently learning JAVA, JavaScript,CSS, HTML and React
 - 📫 How to reach me:  📧 camiangelp@gmail.com  👩🏽 https://www.linkedin.com/in/camiangelp 
 
 <!---
